@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.asus.quizapp.MainActivity">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/wall"
+    android:orientation="vertical"
+    android:padding="@dimen/standard_padding"
+
+   >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="@dimen/standard_padding"
+        android:text="@string/app_text"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/big_text_size" />
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/big_margin"
+        android:src="@drawable/ic_quiz" />
+
+
+    <Button
+        android:id="@+id/play_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/big_margin"
+        android:text="@string/start_button_text"
+        android:textSize="@dimen/standard_text_size" />
+
+
+</LinearLayout>
+</ScrollView>

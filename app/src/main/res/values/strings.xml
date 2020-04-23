@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="app_text">Welcome to Quiz</string>
+    <string name="start_button_text">Let\'s start</string>
+    <string name="edit_text">Enter your name</string>
+    <string name="question_1">Who holds the record of 14 nominations for Worst Actor at the Razzies?</string>
+    <string name="question_1_anser_1">Sylvester Stallone</string>
+    <string name="question_1_anser_2">Arnold Schwarzenegger</string>
+    <string name="question_2">What is the correct title of the 2009 film starring Zooey Deschanel?</string>
+    <string name="question_2_anser_1">500 days of summer</string>
+    <string name="question_2_anser_2">1000 days of summer</string>
+    <string name="question_3"> In the 2004 film \'50 First Dates\', who plays opposite Adam Sandler</string>
+    <string name="question_3_anser_1">Reese Witherspoon</string>
+    <string name="question_3_anser_2"> Drew Barrymore</string>
+    <string name="question_4">Which actor played Hagrid in the Harry Potter films?</string>
+    <string name="question_4_anser_1">Billy Conolley</string>
+    <string name="question_4_anser_2">Robbie Coltrane</string>
+    <string name="question_5">Name 2 actors from stranger things</string>
+    <string name="question_5_anser_1">Finn Wolfhard</string>
+    <string name="question_5_anser_2">Daniel Radcliffe</string>
+    <string name="question_5_anser_3">Emma Watson</string>
+    <string name="question_5_anser_4">Noah Schnapp</string>
+</resources>
